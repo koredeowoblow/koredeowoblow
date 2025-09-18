@@ -35,7 +35,7 @@
 
 - ✉️ Email: daystarowolabi@gmail.com  
 - 📱 Phone: 09034066807  
-- 💼 LinkedIn: [shinaayomi-owolabi](https://ng.linkedin.com/in/shinaayomi-owolabi-192210329)  
+- 💼 LinkedIn: [shinaayomi-owolabi](https://www.linkedin.com/in/shinaayomi-o-192210329/)  
 - 💻 GitHub: [koredeowoblow](https://github.com/koredeowoblow)
 
 ---
