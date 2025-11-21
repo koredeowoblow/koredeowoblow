@@ -20,14 +20,11 @@
   - Crypto exchange app (Node.js)
 
 - 🔧 **Tech Stack**
-  - Backend: PHP, Laravel, CodeIgniter, Node.js
+  - Backend: PHP, Laravel, CodeIgniter, Node.js, expressjs, typescript 
   - Frontend: HTML, CSS, Bootstrap, JavaScript
-  - Database: MySQL, Sequelize ORM
-  - Tools: Git, GitHub, Postman (learning), phpMyAdmin
+  - Database: MySQL, Sequelize, ORM, Nosql, mongoose
+  - Tools: Git, GitHub, Postman, phpMyAdmin
 
-- 🌱 Currently learning:
-  - Advanced Node.js, AWS, and frontend frameworks
-  - Building live production-ready apps
 
 ---
 
